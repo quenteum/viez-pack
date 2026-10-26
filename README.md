@@ -1,2 +1,2 @@
-# viezkelter-pack
-Resource-Pack für das Minecraft-Plugin Viezkelter (Kelter &amp; Viez-Porz)
+# viez-pack
+Resource-Pack für das Minecraft-Plugin Viez (Kelter, Obstmühle, Viezfass & Viez-Porz)
